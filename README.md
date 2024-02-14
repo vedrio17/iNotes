@@ -1,4 +1,4 @@
-# iNotes
+# iNotes :spiral_notepad:
 
 iNotes is a React application for taking and managing notes.
 
