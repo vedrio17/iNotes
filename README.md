@@ -21,15 +21,18 @@ iNotes is a React application for taking and managing notes.
    ```bash
    git clone https://github.com/your-username/iNotes.git
 
-# Navigate to the project directory:
+## Navigate to the project directory:
 cd iNotes
 
-# Install dependencies:
+## Install dependencies:
 npm install
 
-# Start the development server:
+## Start the development server:
 npm start
 
+
+## Screenshot
+[![Screenshot-2024-02-14-123551.png](https://i.postimg.cc/tCPfBs53/Screenshot-2024-02-14-123551.png)](https://postimg.cc/Yhrb9qT0)
 
 # Usage:
 
